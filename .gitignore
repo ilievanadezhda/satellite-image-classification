@@ -1,0 +1,6 @@
+data/cloudy/
+data/desert/
+data/green_area/
+data/water/
+__pycache__/
+checkpoints/best_model.pth
